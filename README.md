@@ -1,1 +1,1 @@
-# Codtech-task1
+Hey... I've designed a simple calculator in python. Here i have created a menu driven option for performing the actions. I've created a specific function for each of the opertion that is to be performed and executed the program.
